@@ -124,7 +124,8 @@ class Solution {
 }
 ```
 
-**Example Illustration**:
+### Example Illustration:
+
 nums = \[1, 2, 3, 4, 5]
 
 -- Prefix Calculation --
