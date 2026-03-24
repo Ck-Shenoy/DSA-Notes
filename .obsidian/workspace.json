@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf0e8fef437e0208",
+        "id": "dda09f2d0cb7339b",
         "type": "tabs",
         "children": [
           {
-            "id": "302088f8ec7dc588",
+            "id": "04d6dea54514da8d",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1478dd89207fa492",
@@ -156,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neetcode 150/Arrays and Hashmaps/Encode and Decode Strings.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Encode and Decode Strings"
+              "title": "Outline"
             }
           },
           {
@@ -180,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 467.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,12 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "302088f8ec7dc588",
+  "active": "8bfbfe80bdfc1f1c",
   "lastOpenFiles": [
-    "Neetcode 150/Arrays and Hashmaps/Products of Array Except Self.md",
+    "Neetcode 150/Arrays and Hashmaps/Two Pass/Products of Array Except Self.md",
+    "Neetcode 150/Arrays and Hashmaps/Basic",
+    "Neetcode 150/Arrays and Hashmaps/Two Pass",
     "New Text Document.txt",
-    "Neetcode 150/Arrays and Hashmaps/Encode and Decode Strings.md",
-    "Neetcode 150/Arrays and Hashmaps/Top K Frequent Elements.md",
+    "Neetcode 150/Arrays and Hashmaps/Basic/Encode and Decode Strings.md",
+    "Neetcode 150/Arrays and Hashmaps/Basic/Top K Frequent Elements.md",
     "Neetcode 150/Arrays and Hashmaps",
     "Welcome.md",
     "Neetcode 150"
