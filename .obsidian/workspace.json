@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Neetcode 150/Arrays and Hashmaps/matrix/Validate Sudoku.md",
-                "bFile": "Neetcode 150/Arrays and Hashmaps/matrix/Validate Sudoku.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Validate Sudoku  (Working Tree)"
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "abf2cdc01ce12bcb",
   "lastOpenFiles": [
-    "Neetcode 150/Arrays and Hashmaps/matrix/Validate Sudoku.md",
-    "Neetcode 150/Arrays and Hashmaps/matrix",
+    "Neetcode 150/Arrays and Hashmaps/Matrix/Validate Sudoku.md",
+    "Neetcode 150/Arrays and Hashmaps/Matrix",
     "Neetcode 150/Arrays and Hashmaps/Untitled.canvas",
     "Neetcode 150/Arrays and Hashmaps/Two Pass/Products of Array Except Self.md",
     "Rough Notes/Rough.md",
