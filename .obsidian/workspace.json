@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "691c632aae629035",
+        "id": "2035a9bbc96b256d",
         "type": "tabs",
         "children": [
           {
-            "id": "abf2cdc01ce12bcb",
+            "id": "b9f1d90f8b7d44d8",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abf2cdc01ce12bcb",
+  "active": "b9f1d90f8b7d44d8",
   "lastOpenFiles": [
     "Neetcode 150/Arrays and Hashmaps/Matrix/Validate Sudoku.md",
     "Neetcode 150/Arrays and Hashmaps/Matrix",
