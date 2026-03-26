@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dda09f2d0cb7339b",
+        "id": "691c632aae629035",
         "type": "tabs",
         "children": [
           {
-            "id": "04d6dea54514da8d",
+            "id": "abf2cdc01ce12bcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Neetcode 150/Arrays and Hashmaps/Two Pass/Products of Array Except Self.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Neetcode 150/Arrays and Hashmaps/matrix/Validate Sudoku.md",
+                "bFile": "Neetcode 150/Arrays and Hashmaps/matrix/Validate Sudoku.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Products of Array Except Self"
+              "icon": "diff",
+              "title": "Diff: Validate Sudoku  (Working Tree)"
             }
           }
         ]
@@ -194,9 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04d6dea54514da8d",
+  "active": "abf2cdc01ce12bcb",
   "lastOpenFiles": [
+    "Neetcode 150/Arrays and Hashmaps/matrix/Validate Sudoku.md",
+    "Neetcode 150/Arrays and Hashmaps/matrix",
+    "Neetcode 150/Arrays and Hashmaps/Untitled.canvas",
     "Neetcode 150/Arrays and Hashmaps/Two Pass/Products of Array Except Self.md",
+    "Rough Notes/Rough.md",
+    "Rough Notes",
     "Neetcode 150/Arrays and Hashmaps/Basic",
     "Neetcode 150/Arrays and Hashmaps/Two Pass",
     "New Text Document.txt",
