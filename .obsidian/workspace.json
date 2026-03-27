@@ -11,14 +11,14 @@
             "id": "41e6c69e89de737f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Neetcode 150/Two Pointers/Valid Palindrome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Valid Palindrome"
             }
           }
         ]
@@ -40,8 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse",
-                "autoReveal": false
+                "sortOrder": "byCreatedTime",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -197,6 +197,10 @@
   "active": "41e6c69e89de737f",
   "lastOpenFiles": [
     "Neetcode 150/Arrays and Hashmaps/Basic/Longest Consecutive Subsequence.md",
+    "Neetcode 150/Two Pointers/Valid Palindrome.md",
+    "Neetcode 150/Stack",
+    "Neetcode 150/Sliding Window",
+    "Neetcode 150/Two Pointers",
     "Neetcode 150/Arrays and Hashmaps/Untitled.canvas",
     "Neetcode 150/Arrays and Hashmaps/Matrix/Validate Sudoku.md",
     "Neetcode 150/Arrays and Hashmaps/Matrix",
