@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2035a9bbc96b256d",
+        "id": "efde9d2cde822fac",
         "type": "tabs",
         "children": [
           {
-            "id": "b9f1d90f8b7d44d8",
+            "id": "41e6c69e89de737f",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -194,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bfbfe80bdfc1f1c",
+  "active": "41e6c69e89de737f",
   "lastOpenFiles": [
+    "Neetcode 150/Arrays and Hashmaps/Basic/Longest Consecutive Subsequence.md",
     "Neetcode 150/Arrays and Hashmaps/Untitled.canvas",
     "Neetcode 150/Arrays and Hashmaps/Matrix/Validate Sudoku.md",
     "Neetcode 150/Arrays and Hashmaps/Matrix",
