@@ -1,3 +1,4 @@
+**Question**: [3 Sum](https://neetcode.io/problems/three-integer-sum/question?list=neetcode150)
 ## Brute Force:
 
 As the problem suggests, run 3 loops to find 3 elements that combine to get a target of 0.

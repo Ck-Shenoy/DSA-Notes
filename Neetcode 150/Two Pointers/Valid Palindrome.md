@@ -1,3 +1,4 @@
+**Question**: [Valid Palindrome](https://neetcode.io/problems/is-palindrome/question?list=neetcode150)
 ## Brute Force
 
 As the question suggests, just consider valid characters and build a new string with just these valid characters. Now convert this to lowercase so that the case becomes insensitive. Have 2 variables str and rev, where one is the reversed string and the other is a straight string. Compare both if both are exactly same. 

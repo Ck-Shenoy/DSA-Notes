@@ -1,3 +1,4 @@
+**Question**: [Two Sum II](https://neetcode.io/problems/two-integer-sum-ii/question?list=neetcode150)
 ## Brute 
 
 We know that we need 2 elements that add up to the sum. We can have 2 for loops that run and checks if 2 elements add up to the target
