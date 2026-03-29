@@ -1,3 +1,4 @@
+**Question**: [Longest Consecutive Subsequence](https://neetcode.io/problems/longest-consecutive-sequence/question?list=neetcode150)
 ## Brute
 
 As the question suggests, loop through each element in nums and check if the next element exists in the array. If yes, capture the length of the consecutive sequence and update the answer variable with the max value.

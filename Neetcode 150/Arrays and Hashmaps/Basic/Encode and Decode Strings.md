@@ -1,4 +1,4 @@
-
+**Question**:[Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode/question?list=neetcode150)
 ## Brute Force:
 
 **Encoding**: Encode the strings with a delimiter like | or a different character. 

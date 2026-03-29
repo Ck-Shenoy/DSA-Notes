@@ -1,3 +1,4 @@
+**Question**: [Validate Sudoku](https://neetcode.io/problems/valid-sudoku/question?list=neetcode150)
 ## Brute Force:
 
 There isn't any intuition as such for this problem. As the question mentions we need not even check for the upcoming elements. We just have to loop through each row and each column and 3 * 3 boxes and check whatever elements that are present right now are unique or not.

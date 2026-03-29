@@ -1,3 +1,4 @@
+**Question**: [Products of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self/question?list=neetcode150)
 ## Brute Force
 
 Go through each element and loop through the entire array and get the product for it. 
