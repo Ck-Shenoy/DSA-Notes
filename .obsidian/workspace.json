@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neetcode 150/Two Pointers/Water Collection/Trapping Rain Water (R).md",
+                "file": "Neetcode 150/Review List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trapping Rain Water (R)"
+              "title": "Review List"
             }
           }
         ]
@@ -196,9 +196,11 @@
   },
   "active": "41e6c69e89de737f",
   "lastOpenFiles": [
-    "Pasted image 20260330081700.png",
-    "Neetcode 150/Arrays and Hashmaps/Two Pass/Products of Array Except Self.md",
     "Neetcode 150/Two Pointers/Water Collection/Trapping Rain Water (R).md",
+    "Neetcode 150/Review List.md",
+    "Neetcode 150/Images/Pasted image 20260330081700.png",
+    "Neetcode 150/Images",
+    "Neetcode 150/Arrays and Hashmaps/Two Pass/Products of Array Except Self.md",
     "Neetcode 150/Arrays and Hashmaps/Basic/Longest Consecutive Subsequence.md",
     "Neetcode 150/Two Pointers/Water Collection",
     "Neetcode 150/Arrays and Hashmaps/Basic/Encode and Decode Strings.md",
@@ -218,7 +220,6 @@
     "Neetcode 150/Arrays and Hashmaps/Basic",
     "Neetcode 150/Arrays and Hashmaps/Two Pass",
     "New Text Document.txt",
-    "Neetcode 150/Arrays and Hashmaps",
     "Welcome.md"
   ]
 }
