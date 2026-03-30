@@ -3,7 +3,7 @@
 
 As the question suggests, loop through each element in nums and check if the next element exists in the array. If yes, capture the length of the consecutive sequence and update the answer variable with the max value.
 
-**Time Complexity**: O(n^2)
+**Time Complexity**: O(n^2)</br>
 **Space Complexity**: O(1)
 ## Better
 
@@ -33,7 +33,7 @@ class Solution {
 }
 ```
 
-**Time Complexity**: O(nlogn)
+**Time Complexity**: O(nlogn)</br>
 **Space Complexity**: O(1)
 ## Optimal
 
@@ -43,7 +43,7 @@ Then to find the sequence count, let's loop through each element in the array. F
 Then from root element we will count the full sequence that's present in the array, and to make sure we don't reiterate the same elements again let's remove these visited elements.
 Ideally, after this each element must have been visited only once, since as per the below code we count the path from current -> first node and current -> last node. So we won't process duplicate paths.
 
-**Time Complexity**: O(n)
+**Time Complexity**: O(n)</br>
 **Space Complexity**: O(n)
 
 ```java

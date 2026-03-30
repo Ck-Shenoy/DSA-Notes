@@ -3,7 +3,7 @@
 
 We know that we need 2 elements that add up to the sum. We can have 2 for loops that run and checks if 2 elements add up to the target
 
-**Time Complexity**: O(n^2)
+**Time Complexity**: O(n^2)</br>
 **Space Complexity**: O(1)
 
 ## Better:
@@ -11,7 +11,7 @@ We know that we need 2 elements that add up to the sum. We can have 2 for loops 
 So to traverse each element we need one loop. However, there's one more loop to check for the second element. Is it really necessary?
 The array is sorted, if that's the case we can just apply binary search and find the second element here right.
 
-**Time Complexity**: O(n log n), 
+**Time Complexity**: O(n log n)</br>
 **Space Complexity**: O(1)
 
 ## Optimal
@@ -40,5 +40,5 @@ class Solution {
 }
 ```
 
-**Time Complexity**: O(n)
+**Time Complexity**: O(n)</br>
 **Space Complexity**: O(1)

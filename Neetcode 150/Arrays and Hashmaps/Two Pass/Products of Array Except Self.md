@@ -2,7 +2,7 @@
 ## Brute Force
 
 Go through each element and loop through the entire array and get the product for it. 
-**Time Complexity**: O(n ^ 2)
+**Time Complexity**: O(n ^ 2)</br>
 **Space Complexity**: O(n)
 
 ## Better
@@ -47,7 +47,7 @@ class Solution {
 }
 ```
 
-**Time Complexity**: O(n)
+**Time Complexity**: O(n)</br>
 **Space Complexity**: O(n)
 ## Optimal 1
 
@@ -92,7 +92,7 @@ class Solution {
 }
 ```
 
-**Time Complexity**: O(n)
+**Time Complexity**: O(n)</br>
 **Space Complexity**: O(2n)
 ## Optimal - 2
 
@@ -127,25 +127,25 @@ class Solution {
 
 ### Example Illustration:
 
-nums = \[1, 2, 3, 4, 5]
+nums = \[1, 2, 3, 4, 5]</br>
 
--- Prefix Calculation --
+-- Prefix Calculation --</br>
 for index 0 there isn't any prefix so -> 1
-for index 1 the prefix is 1 in nums * existing prefix ans\[i-1]  is 1 -> 1 * 1 = 1
-for index 2 the prefix is 2 in nums * existing prefix ans\[i-1] is 1 -> 2 * 1 = 2
-for index 3 the prefix is 3 in nums * existing prefix ans\[i-1] is 2 -> 3 * 2 = 6
-for index 4 the prefix is 4 in nums * existing prefix ans\[i-1] is 6 -> 4 * 6 = 24
+for index 1 the prefix is 1 in nums * existing prefix ans\[i-1]  is 1 -> 1 * 1 = 1</br>
+for index 2 the prefix is 2 in nums * existing prefix ans\[i-1] is 1 -> 2 * 1 = 2</br>
+for index 3 the prefix is 3 in nums * existing prefix ans\[i-1] is 2 -> 3 * 2 = 6</br>
+for index 4 the prefix is 4 in nums * existing prefix ans\[i-1] is 6 -> 4 * 6 = 24</br>
 
-\[1, 1, 2, 6, 24]
+\[1, 1, 2, 6, 24</br>
 
--- Suffix Calculation --
-for index n-1 there isn't any suffix so suffix is 1 * prefix value of n-1 is 24 --> 1 * 24 = 24
-for index n-2 suffix is 1 * nums\[i-1] is 5 * prefix value of n-2 is 6 --> suffix = 5 * 1 = 5, 5 * 6 = 30
-for index n-3 suffix is 5 * nums\[i-2] is 4 * prefix value of n-2 is 2 -->suffix = 5 * 4 = 20, 20 * 2 = 40
-for index n-4 suffix is 20 * nums\[i-3] is 3 * prefix value of n-2 is 1 --> suffix = 20 * 3 = 60, 60 * 1 = 60
-for index n-5 suffix is 60 * nums\[i-4] is 2 * prefix value of n-2 is 1 --> suffix = 60 * 2 = 120, 120 * 1 = 120
+-- Suffix Calculation --</br>
+for index n-1 there isn't any suffix so suffix is 1 * prefix value of n-1 is 24 --> 1 * 24 = 24</br>
+for index n-2 suffix is 1 * nums\[i-1] is 5 * prefix value of n-2 is 6 --> suffix = 5 * 1 = 5, 5 * 6 = 30</br>
+for index n-3 suffix is 5 * nums\[i-2] is 4 * prefix value of n-2 is 2 -->suffix = 5 * 4 = 20, 20 * 2 = 40</br>
+for index n-4 suffix is 20 * nums\[i-3] is 3 * prefix value of n-2 is 1 --> suffix = 20 * 3 = 60, 60 * 1 = 60</br>
+for index n-5 suffix is 60 * nums\[i-4] is 2 * prefix value of n-2 is 1 --> suffix = 60 * 2 = 120, 120 * 1 = 120</br>
 
-**Ans**: \[24, 30, 40, 60, 120]
+**Ans**: \[24, 30, 40, 60, 120]</br>
 
-**Time Complexity**: O(n)
+**Time Complexity**: O(n)</br>
 **Space Complexity**: O(1)

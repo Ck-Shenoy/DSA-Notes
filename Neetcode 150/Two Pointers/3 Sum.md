@@ -29,7 +29,7 @@ class Solution {
 }
 ```
 
-**Time Complexity**: O(n^3) + Sorting
+**Time Complexity**: O(n^3) + Sorting</br>
 **SpaceComplexity**: O(3)
 ## Better
 
@@ -64,7 +64,7 @@ class Solution {
 }
 ```
 
-**Time Complexity**: O(nlogn) + O(n ^ 2) = O(n^2)
+**Time Complexity**: O(nlogn) + O(n ^ 2) = O(n^2)</br>
 **Space Complexity**: O(n^2) - Set
 
 ## Optimal
@@ -108,5 +108,5 @@ class Solution {
 }
 ```
 
-**Time Complexity**: O(n log n) + O(n^2) = O(n^2)
+**Time Complexity**: O(n log n) + O(n^2) = O(n^2)</br>
 **Space Complexity**: O(1)

@@ -14,7 +14,7 @@ Each hashmap would store the number of times each element has occurred.
 K = 2
 Then to find the frequent k, we need to fetch each element put it into a list with List<Int, Int> and sort it by the frequency. Then get the values.
 
-**Example**: [{3, 6}, {4, 4} , {1, 2}, {5, 1}]
+**Example**: [{3, 6}, {4, 4} , {1, 2}, {5, 1}]</br>
 **Ans**: [3, 4]
 
 **Optimal**:
