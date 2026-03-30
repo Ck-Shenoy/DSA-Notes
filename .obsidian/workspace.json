@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neetcode 150/Arrays and Hashmaps/Matrix/Validate Sudoku.md",
+                "file": "Neetcode 150/Two Pointers/Container with Most Water.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Validate Sudoku"
+              "title": "Container with Most Water"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -194,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41e6c69e89de737f",
+  "active": "9746decc68b46286",
   "lastOpenFiles": [
+    "Neetcode 150/Arrays and Hashmaps/Matrix/Validate Sudoku.md",
     "Neetcode 150/Arrays and Hashmaps/Two Pass/Products of Array Except Self.md",
     "Neetcode 150/Arrays and Hashmaps/Basic/Longest Consecutive Subsequence.md",
     "Neetcode 150/Arrays and Hashmaps/Basic/Encode and Decode Strings.md",
@@ -208,7 +209,6 @@
     "Neetcode 150/Sliding Window",
     "Neetcode 150/Two Pointers",
     "Neetcode 150/Arrays and Hashmaps/Untitled.canvas",
-    "Neetcode 150/Arrays and Hashmaps/Matrix/Validate Sudoku.md",
     "Neetcode 150/Arrays and Hashmaps/Matrix",
     "Rough Notes/Rough.md",
     "Rough Notes",
